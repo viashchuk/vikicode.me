@@ -2,6 +2,24 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: 'Poppins';
+  src: url(./public/poppins/Poppins-Regular.ttf);
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Poppins';
+  src: url(./public/poppins/Poppins-Medium.ttf);
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Poppins';
+  src: url(./public/poppins/Poppins-SemiBold.ttf);
+  font-weight: 600;
+}
+
 :root {
   font-family: 'Poppins', sans-serif;
   line-height: 1.5;
