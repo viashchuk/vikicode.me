@@ -1,6 +1,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/viashchuk/viki-code?color=purple)
 
-## My website
+## ✨ My website
 
 My personal portfolio website built using Tailwind CSS.  
 
@@ -8,10 +8,12 @@ My personal portfolio website built using Tailwind CSS.
 🟣 Responsive  
 🟣 Styled with Tailwind CSS V3
 
-![Preview](	https://github.com/viashchuk/viki-code/blob/main/public/preview.jpg?raw=true "My website")
+![Preview](	https://github.com/viashchuk/viki-code/blob/main/public/preview.png?raw=true "My website")
 
-## Demo
-Here is a working live:  https://vikicode.me
+## Technologies
+
+- Vite
+- Tailwind CSS
 
 ## Installation 🚀
 
